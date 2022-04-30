@@ -1,4 +1,4 @@
-package com.appdev.api.usersservice.data;
+package com.appdev.api.usersservice.persistence;
 
 import java.io.Serializable;
 
